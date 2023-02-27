@@ -5,6 +5,7 @@ The aim of this project is to explore and analyze the Netflix shows data after f
 
 
 Insights:
+
 In Netflix Number of movies(6131) is greater than Number of TV shows(2676)
 
 Nearly 70 percent are movies and 30 percent are TV Shows
@@ -67,6 +68,7 @@ August
 After 2018 43% TV Shows were added in the Netflix.
 Most TV Shows addition in 2019 occured in November and then December,Most TV Shows addition in 2020 occured in December and then May,Most TV Shows addition in 2021 occured in July and then june.
 Parental Audience prefer to watch Reality shows.
+
 Recommendation:
 
 Netflix should focus on adding more movies or TV Shows related to Dramas and International Movies.
